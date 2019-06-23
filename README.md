@@ -1,2 +1,2 @@
-# HackerRank
-Solutions to HackerRank Problems of different domains
+# HackerRank|Python
+Solutions to HackerRank Problems of Python domain
